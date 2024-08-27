@@ -18,4 +18,4 @@ Este projeto demonstra como criar um jogo 2048 utilizando o framework Flutter. A
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/your-username/2048-flutter.git
+   git clone https://github.com/JardellVic/vintegame
