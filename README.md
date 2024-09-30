@@ -4,7 +4,7 @@ Este é um projeto Flutter que implementa o popular jogo 2048. O 2048 é um jogo
 
 ## Visão Geral
 
-Este projeto demonstra como criar um jogo 2048 utilizando o framework Flutter. A aplicação inclui animações suaves, uma interface intuitiva e funcionalidades completas do jogo, como movimentos, fusões e controle de pontuação.
+Este projeto o jogo 2048 utilizando o framework Flutter. A aplicação inclui animações suaves, uma interface intuitiva e funcionalidades completas do jogo, como movimentos, fusões e controle de pontuação.
 
 ## Funcionalidades
 
